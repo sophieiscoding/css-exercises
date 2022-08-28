@@ -3,3 +3,11 @@
     font-size: 28px;
     font-family: Helvetica, 'Times New Roman', sans-serif;
 }
+.dark {
+    background-color: black;
+    color: white;
+}
+.light {
+    background-color: rgb(249, 249, 158);
+    color: black;
+}
